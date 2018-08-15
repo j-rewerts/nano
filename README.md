@@ -1,4 +1,7 @@
-
+## Note
+I pulled this source from Nano's repository [here](http://git.savannah.gnu.org/cgit/nano.git/).
+          
+          
           GNU nano -- an enhanced clone of the Pico text editor
 
 Overview
